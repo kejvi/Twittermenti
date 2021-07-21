@@ -6,6 +6,8 @@ After cloning the project please run *pod update* so that the project can instal
 
 This app uses Machine Learning to read the latest tweets and figure out how people are feeling about what you're searching. You can try it on celebrities, stocks, companies and so much more.
 
+<img src="https://github.com/kejvi/Twittermenti/blob/main/Description/1.PNG" width="100">
+
 ![Github Logo](https://github.com/kejvi/Twittermenti/blob/main/Description/1.PNG&v=1s=100)
 
 ![Github Logo](https://github.com/kejvi/Twittermenti/blob/main/Description/2.PNG&v=1s=100)
